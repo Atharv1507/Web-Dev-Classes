@@ -19,6 +19,7 @@
 #contentBox{
     border-radius: 50px;
     display: flex;
+    box-shadow: 0 0 10px 10px grey;
     flex-direction: column;
     align-items: center;
     justify-content: center;
